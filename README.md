@@ -1,2 +1,2 @@
-# My Project
+# Use the Other README.pdf
 
