@@ -3,6 +3,7 @@
 #include <QPainter>
 #include <QMouseEvent>
 #include "QDir"
+#include "QCoreApplication"
 
 Canvas::Canvas(QWidget* parent): QWidget(parent){
     setMinimumSize(600, 400);
